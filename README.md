@@ -1,6 +1,6 @@
 # Elie Loji's Portfolio Website 🌐
 
-Welcome to the GitHub repository for Elie Loji's personal portfolio website. This site showcases Elie's professional journey as a Junior Account Manager specializing in OEM Partnerships and Digital Engagement at 4LEVELS Solutions.
+Welcome to the GitHub repository for Elie Loji's personal portfolio website.
 
 ## About This Repository 📖
 
